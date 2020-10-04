@@ -1,0 +1,3 @@
+WARNING:root:!basicconf 1!  Enter in the main() function: name = rekusha
+DEBUG:root:!basicconf 2! Enter in the main() function: name = rekusha
+INFO:root:!basicconf 3! Enter in the main() function: name = rekusha
